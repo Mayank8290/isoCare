@@ -1,0 +1,14 @@
+com/isocare/MainActivity.java
+ com.isocare.MainActivity
+com/isocare/ReactNativeFlipper.java
+ com.isocare.ReactNativeFlipper
+ com.isocare.ReactNativeFlipper$1
+ com.isocare.ReactNativeFlipper$2
+ com.isocare.ReactNativeFlipper$2$1
+com/isocare/BuildConfig.java
+ com.isocare.BuildConfig
+com/isocare/MainApplication.java
+ com.isocare.MainApplication
+ com.isocare.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

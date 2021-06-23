@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yalantis:ucrop:2.2.2-native@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b179f674da52cb3a357b812038ffbcaf/jetified-ucrop-2.2.2-native/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/309241f487569a61d44528760911642e/jetified-ucrop-2.2.2-native/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8037a5774607869f7a38cdd81ff10e55/jetified-ucrop-2.2.2-native/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b179f674da52cb3a357b812038ffbcaf/jetified-ucrop-2.2.2-native/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b179f674da52cb3a357b812038ffbcaf/jetified-ucrop-2.2.2-native/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/309241f487569a61d44528760911642e/jetified-ucrop-2.2.2-native/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/309241f487569a61d44528760911642e/jetified-ucrop-2.2.2-native/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/309241f487569a61d44528760911642e/jetified-ucrop-2.2.2-native/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8037a5774607869f7a38cdd81ff10e55/jetified-ucrop-2.2.2-native/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8037a5774607869f7a38cdd81ff10e55/jetified-ucrop-2.2.2-native/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8037a5774607869f7a38cdd81ff10e55/jetified-ucrop-2.2.2-native/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.2-native/17a10b602647c08786bb135a3552e2a7079de513/ucrop-2.2.2-native-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.2-native/b97793db4276f16577919ca23fab4d381ccecb89/ucrop-2.2.2-native-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

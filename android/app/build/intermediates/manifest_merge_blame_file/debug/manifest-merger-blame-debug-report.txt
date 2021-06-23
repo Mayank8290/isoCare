@@ -1,0 +1,209 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.isocare"
+4    android:versionCode="10"
+5    android:versionName="1.7" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:4:1-63
+12-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:4:18-60
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:5:1-61
+13-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:5:18-58
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:6:1-76
+14-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:6:18-74
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.33.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b21eef3f371558c5d78015ea2778dd0e\jetified-flipper-0.33.1\AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.33.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b21eef3f371558c5d78015ea2778dd0e\jetified-flipper-0.33.1\AndroidManifest.xml:16:22-73
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[:react-native-background-timer] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-background-timer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-68
+16-->[:react-native-background-timer] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-background-timer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-65
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Required to access Google Play Licensing -->
+17-->[:react-native-maps] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+17-->[:react-native-maps] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
+18    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+18-->[:rn-fetch-blob] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-73
+18-->[:rn-fetch-blob] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-70
+19    <!--
+20         Required to poll the state of the network connection
+21        and respond to changes
+22    -->
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->[:rn-fetch-blob] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-79
+23-->[:rn-fetch-blob] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:22-76
+24
+25    <uses-feature
+25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+26        android:glEsVersion="0x00020000"
+26-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+27        android:required="true" />
+27-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+28
+29    <application
+29-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:7:5-29:19
+30        android:name="com.isocare.MainApplication"
+30-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:8:7-38
+31        android:allowBackup="false"
+31-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:13:7-34
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e601daed4ba62929db8b322b2974c8f8\core-1.1.0\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:10:7-41
+35        android:label="@string/app_name"
+35-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:9:7-39
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:11:7-52
+37        android:theme="@style/AppTheme"
+37-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:14:7-38
+38        android:usesCleartextTraffic="true" >
+38-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:12:7-42
+39        <meta-data
+39-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:15:7-16:52
+40            android:name="com.facebook.sdk.ApplicationId"
+40-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:15:18-63
+41            android:value="@string/facebook_app_id" />
+41-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:16:11-50
+42
+43        <activity
+43-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:17:7-27:18
+44            android:name="com.isocare.MainActivity"
+44-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:18:9-37
+45            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+45-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:20:9-86
+46            android:label="@string/app_name"
+46-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:19:9-41
+47            android:launchMode="singleTask"
+47-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:21:9-40
+48            android:windowSoftInputMode="adjustResize" >
+48-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:22:9-51
+49            <intent-filter>
+49-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:23:9-26:25
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:24:13-65
+50-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:24:21-62
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:25:13-73
+52-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:25:23-70
+53            </intent-filter>
+54        </activity>
+55        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+55-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:28:7-84
+55-->C:\Users\mayan\Documents\ReactNative Projects\Isocare\android\app\src\main\AndroidManifest.xml:28:17-81
+56
+57        <provider
+57-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-21:20
+58            android:name="androidx.core.content.FileProvider"
+58-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-62
+59            android:authorities="com.isocare.provider"
+59-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-60
+60            android:exported="false"
+60-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+61            android:grantUriPermissions="true" >
+61-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-47
+62            <meta-data
+62-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:58
+63                android:name="android.support.FILE_PROVIDER_PATHS"
+63-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+64                android:resource="@xml/provider_paths" />
+64-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-55
+65        </provider>
+66
+67        <activity
+67-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-25:72
+68            android:name="com.yalantis.ucrop.UCropActivity"
+68-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-60
+69            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+69-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-69
+70
+71        <provider
+71-->[:react-native-image-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-18:20
+72            android:name="com.imagepicker.FileProvider"
+72-->[:react-native-image-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-56
+73            android:authorities="com.isocare.provider"
+73-->[:react-native-image-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-60
+74            android:exported="false"
+74-->[:react-native-image-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-37
+75            android:grantUriPermissions="true" >
+75-->[:react-native-image-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-47
+76            <meta-data
+76-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:58
+77                android:name="android.support.FILE_PROVIDER_PATHS"
+77-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+78                android:resource="@xml/provider_paths" />
+78-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-55
+79        </provider>
+80        <provider
+80-->[:rn-fetch-blob] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:9-44:20
+81            android:name="com.RNFetchBlob.Utils.FileProvider"
+81-->[:rn-fetch-blob] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-62
+82            android:authorities="com.isocare.provider"
+82-->[:rn-fetch-blob] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-60
+83            android:exported="false"
+83-->[:rn-fetch-blob] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-37
+84            android:grantUriPermissions="true" >
+84-->[:rn-fetch-blob] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-47
+85            <meta-data
+85-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:58
+86                android:name="android.support.FILE_PROVIDER_PATHS"
+86-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+87                android:resource="@xml/provider_paths" />
+87-->[:react-native-image-crop-picker] C:\Users\mayan\Documents\ReactNative Projects\Isocare\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-55
+88        </provider>
+89
+90        <activity
+90-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b579557b6de0e780fea7eab6f74df295\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+91            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+91-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b579557b6de0e780fea7eab6f74df295\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+92            android:excludeFromRecents="true"
+92-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b579557b6de0e780fea7eab6f74df295\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+93            android:exported="false"
+93-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b579557b6de0e780fea7eab6f74df295\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+94            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+94-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b579557b6de0e780fea7eab6f74df295\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+95        <!--
+96            Service handling Google Sign-In user revocation. For apps that do not integrate with
+97            Google Sign-In, this service will never be started.
+98        -->
+99        <service
+99-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b579557b6de0e780fea7eab6f74df295\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+100            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+100-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b579557b6de0e780fea7eab6f74df295\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+101            android:exported="true"
+101-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b579557b6de0e780fea7eab6f74df295\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+102            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" /> <!-- Needs to be explicitly declared on P+ -->
+102-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b579557b6de0e780fea7eab6f74df295\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+103        <uses-library
+103-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+104            android:name="org.apache.http.legacy"
+104-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+105            android:required="false" />
+105-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+106
+107        <activity
+107-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\af7ff4cdb9585a03f0fe804445629944\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+108            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+108-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\af7ff4cdb9585a03f0fe804445629944\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+109            android:exported="false"
+109-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\af7ff4cdb9585a03f0fe804445629944\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+110            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+110-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\af7ff4cdb9585a03f0fe804445629944\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+111
+112        <meta-data
+112-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\937c5050898784d30c656655e5f36fd6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+113            android:name="com.google.android.gms.version"
+113-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\937c5050898784d30c656655e5f36fd6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+114            android:value="@integer/google_play_services_version" />
+114-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\937c5050898784d30c656655e5f36fd6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+115    </application>
+116
+117</manifest>

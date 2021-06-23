@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-445679062/MyProject.react-native-background-timer.iml" filepath="$PROJECT_DIR$/.idea/modules/-445679062/MyProject.react-native-background-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2023818732/MyProject.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-2023818732/MyProject.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1338404277/MyProject.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1338404277/MyProject.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1545559687/MyProject.react-native-community_progress-bar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/1545559687/MyProject.react-native-community_progress-bar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/595589075/MyProject.react-native-community_progress-view.iml" filepath="$PROJECT_DIR$/.idea/modules/595589075/MyProject.react-native-community_progress-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1637340990/MyProject.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1637340990/MyProject.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1119409486/MyProject.react-native-google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1119409486/MyProject.react-native-google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/388731125/MyProject.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/388731125/MyProject.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/863689092/MyProject.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/863689092/MyProject.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-311684015/MyProject.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-311684015/MyProject.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/776911086/MyProject.react-native-pdf.iml" filepath="$PROJECT_DIR$/.idea/modules/776911086/MyProject.react-native-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-965573606/MyProject.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-965573606/MyProject.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-875292501/MyProject.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-875292501/MyProject.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1986740867/MyProject.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1986740867/MyProject.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1050369138/MyProject.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1050369138/MyProject.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1806010796/MyProject.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1806010796/MyProject.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-705016713/MyProject.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-705016713/MyProject.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/637715487/MyProject.react-native-youtube.iml" filepath="$PROJECT_DIR$/.idea/modules/637715487/MyProject.react-native-youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1646291043/MyProject.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-1646291043/MyProject.rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

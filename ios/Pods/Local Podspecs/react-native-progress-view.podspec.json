@@ -1,0 +1,24 @@
+{
+  "name": "react-native-progress-view",
+  "version": "1.0.3",
+  "summary": "React Native Progress View iOS Library",
+  "license": "MIT",
+  "authors": {
+    "name": "Kaiden Sin",
+    "email": "ksnz93@gmail.com"
+  },
+  "homepage": "https://github.com/react-native-community/react-native-progress-view#readme",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/react-native-community/react-native-progress-view.git",
+    "tag": "1.0.3"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}
